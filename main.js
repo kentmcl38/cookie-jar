@@ -708,3 +708,4 @@ document.addEventListener('DOMContentLoaded', () => {
       console.error('Failed to initialize banner:', error);
       new Banner({});
     });
+})
