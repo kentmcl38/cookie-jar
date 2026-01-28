@@ -86,9 +86,13 @@
 .ofc-banner-container p,
 .ofc-settings-container p {
   margin: 0;
-  /* padding: 15px 0 !important; */
+  padding: 15px 0 !important;
   text-align: center;
   font-size: 14px !important;
+}
+
+.ofc-settings-container.ofc-settings-container p {
+  padding: 0 !important;
 }
 
 .cookie-jar-link {
