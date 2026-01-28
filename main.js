@@ -146,11 +146,10 @@ class Banner {
 			  <button class='ofc-close ofc-popclose' data-item='js-settings-close-button'><img src="https://raw.githubusercontent.com/JoshOpenform/cookieCDN/main/images/close_icon.svg" /></button>
 			</div>
 			<div class="privacy-content-text">
-				<p class="ofc-privacytext">Cookies are small text files that are placed on your computer by websites that you visit. Websites use cookies to help users navigate efficiently and perform certain functions. Cookies that are required for the website to operate properly are allowed to be set without your permission. All other cookies need to be approved before they can be set in the browser.</p> <br />
-				<p>You can change your consent to cookie usage at any time on our Privacy Policy page.<br />
-				We also use cookies to collect data for the purpose of personalizing and measuring the effectiveness of our advertising. <br />
+				<p class="ofc-privacytext">Cookies are small text files that are placed on your computer by websites that you visit. Websites use cookies to help users navigate efficiently and perform certain functions. Cookies that are required for the website to operate properly are allowed to be set without your permission. All other cookies need to be approved before they can be set in the browser.</p>
+				<p>You can change your consent to cookie usage at any time on our Privacy Policy page.
+				We also use cookies to collect data for the purpose of personalizing and measuring the effectiveness of our advertising.
 				For more details, visit the <a href="https://policies.google.com/privacy" target=_blank>Google Privacy Policy</a>.</p>
-				
 			</div>
 			<div class='ofc-settings'>
 				<div class='ofc-accordion'>
